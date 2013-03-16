@@ -1,0 +1,11 @@
+D:\VS2012Project\SdUpdater\SdUpdater\bin\Debug\SdUpdater.exe
+D:\VS2012Project\SdUpdater\SdUpdater\bin\Debug\SdUpdater.pdb
+D:\VS2012Project\SdUpdater\SdUpdater\obj\Debug\SdUpdater.MainForm.resources
+D:\VS2012Project\SdUpdater\SdUpdater\obj\Debug\SdUpdater.Properties.Resources.resources
+D:\VS2012Project\SdUpdater\SdUpdater\obj\Debug\SdUpdater.csproj.GenerateResource.Cache
+D:\VS2012Project\SdUpdater\SdUpdater\obj\Debug\SdUpdater.exe
+D:\VS2012Project\SdUpdater\SdUpdater\obj\Debug\SdUpdater.pdb
+D:\VS2012Project\SdUpdater\SdUpdater\obj\Debug\SdUpdater.csprojResolveAssemblyReference.cache
+D:\VS2012Project\SdUpdater\SdUpdater\bin\Debug\Interop.AutoItX3Lib.dll
+D:\VS2012Project\SdUpdater\SdUpdater\obj\Debug\Interop.AutoItX3Lib.dll
+D:\VS2012Project\SdUpdater\SdUpdater\obj\Debug\SdUpdater.csproj.ResolveComReference.cache
